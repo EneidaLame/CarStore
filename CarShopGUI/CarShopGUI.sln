@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarShopCUI", "CarShopCUI.csproj", "{E0A65057-0663-40C4-B1A8-D1DBD4ED941D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarShopGUI", "CarShopGUI.csproj", "{E0A65057-0663-40C4-B1A8-D1DBD4ED941D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarClassLibrary", "..\CarClassLibrary\CarClassLibrary.csproj", "{C780D8A6-73D6-4382-A531-609E6206A763}"
 EndProject

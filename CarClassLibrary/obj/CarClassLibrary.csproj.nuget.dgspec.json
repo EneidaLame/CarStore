@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eneida Lame\\Desktop\\CarShop\\CarClassLibrary\\CarClassLibrary.csproj": {}
+    "C:\\Users\\Eneida Lame\\Desktop\\CarStore\\CarClassLibrary\\CarClassLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eneida Lame\\Desktop\\CarShop\\CarClassLibrary\\CarClassLibrary.csproj": {
+    "C:\\Users\\Eneida Lame\\Desktop\\CarStore\\CarClassLibrary\\CarClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eneida Lame\\Desktop\\CarShop\\CarClassLibrary\\CarClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Eneida Lame\\Desktop\\CarStore\\CarClassLibrary\\CarClassLibrary.csproj",
         "projectName": "CarClassLibrary",
-        "projectPath": "C:\\Users\\Eneida Lame\\Desktop\\CarShop\\CarClassLibrary\\CarClassLibrary.csproj",
+        "projectPath": "C:\\Users\\Eneida Lame\\Desktop\\CarStore\\CarClassLibrary\\CarClassLibrary.csproj",
         "packagesPath": "C:\\Users\\Eneida Lame\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eneida Lame\\Desktop\\CarShop\\CarClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Eneida Lame\\Desktop\\CarStore\\CarClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
