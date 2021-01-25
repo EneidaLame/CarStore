@@ -1,0 +1,13 @@
+C:\Users\Eneida Lame\source\repos\CarShopCUI\bin\Debug\CarShopCUI.exe.config
+C:\Users\Eneida Lame\source\repos\CarShopCUI\bin\Debug\CarShopCUI.exe
+C:\Users\Eneida Lame\source\repos\CarShopCUI\bin\Debug\CarShopCUI.pdb
+C:\Users\Eneida Lame\source\repos\CarShopCUI\obj\Debug\CarShopCUI.csprojAssemblyReference.cache
+C:\Users\Eneida Lame\source\repos\CarShopCUI\obj\Debug\CarShopCUI.Form1.resources
+C:\Users\Eneida Lame\source\repos\CarShopCUI\obj\Debug\CarShopCUI.Properties.Resources.resources
+C:\Users\Eneida Lame\source\repos\CarShopCUI\obj\Debug\CarShopCUI.csproj.GenerateResource.cache
+C:\Users\Eneida Lame\source\repos\CarShopCUI\obj\Debug\CarShopCUI.csproj.CoreCompileInputs.cache
+C:\Users\Eneida Lame\source\repos\CarShopCUI\obj\Debug\CarShopCUI.exe
+C:\Users\Eneida Lame\source\repos\CarShopCUI\obj\Debug\CarShopCUI.pdb
+C:\Users\Eneida Lame\source\repos\CarShopCUI\bin\Debug\CarClassLibrary.dll
+C:\Users\Eneida Lame\source\repos\CarShopCUI\bin\Debug\CarClassLibrary.pdb
+C:\Users\Eneida Lame\source\repos\CarShopCUI\obj\Debug\CarShopCUI.csproj.CopyComplete

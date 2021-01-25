@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/dLxuOxgD2YiQNfsSdzuAdjTaBexi/2LCjWB21JYmt/mNxBoFwAflJemctmtrGzHzthnJL3eOXq95yZ0yWM1eA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eneida Lame\\Desktop\\CarShop\\CarClassLibrary\\CarClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eneida Lame\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Eneida Lame\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
